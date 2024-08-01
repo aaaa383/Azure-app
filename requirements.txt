@@ -1,0 +1,14 @@
+# use pipreqs to generate requirements.txt and pip3 install -r requirements.txt
+# pip install pipreqs
+# pipreqs /path/to/project
+azure-cosmos==4.2.0
+flask==3.0.3
+# beautifulsoup4==4.12.3
+# langchain==0.1.1
+# openai==0.28.0
+pandas==2.1.4
+python-dotenv==1.0.0
+# Requests==2.31.0
+# streamlit==1.30.0
+# azure-identity==1.6.1
+# urllib3==1.26.6
